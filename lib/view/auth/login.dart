@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 import 'package:week6/view/auth/register.dart';
 
@@ -45,7 +46,7 @@ class _LoginScreenState extends State<LoginScreen> {
               children: [
                 //===== Images Login =====
                 Image.asset(
-                  'assets/images/login.png',
+                  'assets/images/login1.png',
                   width: size.width * 0.7,
                 ),
                 const SizedBox(height: 10.0),
